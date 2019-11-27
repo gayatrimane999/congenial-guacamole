@@ -1,2 +1,2 @@
 # congenial-guacamole
-congenial 
+congenial means agreeable
